@@ -3,11 +3,11 @@
 Инструменты: Power BI Desktop.
 
 <p align="center">
-    <img src="images/pic-1.jpg">
+    <img src="https://github.com/darazazulina/Online_food/blob/main/images/pic-1.JPG" alt="Рис 1" />
 </p>
 
 <p align="center">
-    <img src="images/pic-2.jpg">
+    <img src="https://github.com/darazazulina/Online_food/blob/main/images/pic-2.JPG" alt="Рис 2" />
 </p>
 
 ## Исходные данные
@@ -50,31 +50,31 @@
 На главной странице представлено количество клиентов женского и мужского пола. По полученному отображению видно, что клиентов мужского пола немного больше, чем клиентов женского пола.
 
 <p align="center">
-    <img src="images/pic-3.jpg">
+    <img src="https://github.com/darazazulina/Online_food/blob/main/images/pic-3.JPG" alt="Рис 3" />
 </p>
 
 Для данных по образованию и семейному положению построены круговые диаграммы. По ним можно сделать вывод о преобладании одиноких студентов в клиентской базе.
 
 <p align="center">
-    <img src="images/pic-4.jpg">
+    <img src="https://github.com/darazazulina/Online_food/blob/main/images/pic-4.JPG" alt="Рис 4" />
 </p>
 
 Гистограмма показывают, что большинство клиентов не имеют дохода. А линейчатая диаграмма демонстрирует превалирование семей с тремя людьми относительно других.
 
 <p align="center">
-    <img src="images/pic-5.jpg">
+    <img src="https://github.com/darazazulina/Online_food/blob/main/images/pic-5.JPG" alt="Рис 5" />
 </p>
 
 Возраст клиентов отражен на гистограмме. Клиенты от 22 до 25 лет составляют большую часть всей клиентуры.
 
 <p align="center">
-    <img src="images/pic-6.jpg">
+    <img src="https://github.com/darazazulina/Online_food/blob/main/images/pic-6.JPG" alt="Рис 6" />
 </p>
 
 Созданные меры позволяют отобразить количество и процентное соотношение положительных и негативных отзывов. Большинство всех клиентов (80 %) довольны сервисом.
 
 <p align="center">
-    <img src="images/pic-7.jpg">
+    <img src="https://github.com/darazazulina/Online_food/blob/main/images/pic-7.JPG" alt="Рис 7" />
 </p>
 
 #### Страница Map
@@ -82,7 +82,7 @@
 На дополнительной странице расположена таблица с индексами и карта, построенная по широте и долготе. На карте отображается количество клиентов для каждой географической точки. Больше всего клиентов в цетре города.
 
 <p align="center">
-    <img src="images/pic-8.jpg">
+    <img src="https://github.com/darazazulina/Online_food/blob/main/images/pic-8.JPG" alt="Рис 8" />
 </p>
 
 ## Выводы
